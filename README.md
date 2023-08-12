@@ -1,6 +1,6 @@
 # Docker: Accelerated Container Application Development
 
-![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/docker.png)>
+![logo](https://github.com/KalyanMurapaka45/KalyanMurapaka45/blob/main/docker.png)
 
 Welcome to the Dockerized Flask Sample Project! This repository showcases a straightforward Python web application developed using the Flask framework and Docker containerization. The application proudly displays a "Hello World" message when accessed through any standard web browser. By containerizing the application with Docker, we ensure smooth deployment and consistent development experiences across various environments.
 
